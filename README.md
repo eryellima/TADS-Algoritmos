@@ -31,6 +31,3 @@
 >> ./gen_array 1000 > meu_teste.txt 
 >
 > O arquivo gerado `meu_teste.txt` terá 2 linhas, a primeira com o valor 1000 e a segunda com 1000 valor inteiros gerados aleatoriamente.
-
-###### OBS
-precisei usar o `git bash` pois o `powershell` não permitia o uso de alguns comandos ao compilar os arquivos retornando erro por conta do operador `<`
